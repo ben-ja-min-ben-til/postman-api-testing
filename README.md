@@ -46,5 +46,5 @@ This repository showcases my work as a QA Tester. I test web applications and AP
 
 I'm a QA tester who enjoys digging into applications to uncover functional, usability, and API issues. I write clear test cases and detailed bug reports so developers can fix problems fast.
 
-- 👤 **Author:** [Your Name]
-- 📧 **Contact:** [your-email@example.com]
+- 👤 **Author:** [Benjamin Bentil]
+- 📧 **Contact:** [davidhorlaliadjei@gmail.com]
